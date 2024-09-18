@@ -3,7 +3,7 @@
 ### Ressources
 
 - [Notion](https://www.notion.so/)
-- [Figma] (https://www.figma.com/)
+- [Figma](https://www.figma.com/)
  
 ### FAQ
 
