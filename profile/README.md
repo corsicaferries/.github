@@ -1,5 +1,5 @@
 ## Bienvenue sur le GitHub de Corsica Ferries 👋
-
+![Logo](https://co.corsicaferries.com/html/2017/img/logo/corsica-logo_fr.png)
 ### Ressources
 
 - [Notion](https://www.notion.so/)
