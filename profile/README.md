@@ -3,6 +3,14 @@
 ### Ressources
 
 - [Notion](https://www.notion.so/)
+- [Figma] (https://www.figma.com/)
+ 
+### FAQ
+
+#### Pour toutes questions d'accès (Notion, Figma, accès à un répertoire GitHub, etc.) ?
+Il te suffit de demander l'accès à un admin
+
+
 
 
 
