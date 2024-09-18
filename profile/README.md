@@ -1,8 +1,7 @@
 ## Bienvenue sur le GitHub de Corsica Ferries 👋
----
 
 ### Ressources
----
+
 - [Notion](https://www.notion.so/)
 
 
